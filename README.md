@@ -13,3 +13,7 @@
     This will make the bin command entries accessible globally according to your NodeJS setup
 4. Run ```tree-dir``` or ```tree-gen``` to run those two scripts.
 5. After running either of those two scripts, the output will be stored in a new txt file. 
+
+Screenshots:
+
+![alt text](image.png)
